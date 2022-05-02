@@ -56,10 +56,11 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
-    width: 100%;
-    padding: 1.3rem 0;
+    width: 350px;
+    padding: 1.3rem ;
     border: 1px solid lightgray;
-    border-radius: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
 }
 
 .group:nth-child(1) {
@@ -104,6 +105,7 @@ body {
 
 .link-blue {
     color: #0095f6;
+    
 }
 
 .link-blue:hover {
@@ -136,7 +138,7 @@ body {
 
 .instagram-login:hover {
     color: white;
-    background-color: darkblue;
+    background-color: rgb(3, 3, 231);
     transition: 1s;
 
 }
@@ -161,7 +163,7 @@ body {
     font-size: 13px;
     color: rgb(160, 160, 160);
     text-align: center;
-    margin: 3px;
+    margin: 8px;
 
 
 }
