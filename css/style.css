@@ -196,7 +196,7 @@ body {
     }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 742px) {
     body {
         background-color: #ffffff;
     }
