@@ -190,7 +190,7 @@ body {
 
 /* media queries */
 
-@media (max-width: 1024px) {
+@media (max-width: 1099px) {
     .main {
         width: 90%;
     }
